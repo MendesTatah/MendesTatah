@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá, eu sou Thais Mendes 🙋🏼‍♀️
 
-<!--
-**MendesTatah/MendesTatah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Futura Analista e Desenvolvedora de Sistemas
 
-Here are some ideas to get you started:
+"Sou Doutora em Química em transição de carreira para a área de Tecnologia. Sou uma estudante apaixonada por tecnologia, com foco em Análise e Desenvolvimento de Sistemas. Busco oportunidades para aplicar meus conhecimentos em Python e SQL e crescer profissionalmente."
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Minhas Habilidades Técnicas
+
+* **Linguagens de Programação:** Python, HTML e CSS
+* **Frameworks & Bibliotecas:** Pandas
+* **Bancos de Dados:** SQL
+* **Ferramentas e Outras:** Git
+
+---
+
+### Fale Comigo!
+
+* **LinkedIn:** https://www.linkedin.com/in/thaisppmandrade/
+* **Email:** thaisppmendes@gmail.com
